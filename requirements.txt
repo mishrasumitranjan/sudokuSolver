@@ -1,0 +1,2 @@
+tkinter (included in python installation)
+pytest
